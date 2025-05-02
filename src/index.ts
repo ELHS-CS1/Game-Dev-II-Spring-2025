@@ -134,7 +134,7 @@ engine.runRenderLoop(() => {
 // Handle window resize
 window.addEventListener("resize", () => {
     engine.resize();
-}); git
+});
 
 
 
